@@ -1,0 +1,2 @@
+||instance.mgt.xboxlive.com^
+||licensing.mp.microsoft.com^
