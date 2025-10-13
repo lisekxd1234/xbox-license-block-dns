@@ -1,0 +1,5 @@
+||instance.mgt.xboxlive.com^
+||licensing.mp.microsoft.com^
+||titlestoragencus*.blob.core.windows.net^
+||v*.events.data.microsoft.com^
+||xsts.auth.xboxlive.com^
