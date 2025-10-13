@@ -1,2 +1,1 @@
-||licensing.mp.microsoft.com^
 ||xsts.auth.xboxlive.com^
